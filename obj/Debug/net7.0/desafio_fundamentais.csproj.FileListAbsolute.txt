@@ -1,0 +1,14 @@
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\desafio_fundamentais\bin\Debug\net7.0\desafio_fundamentais.exe
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\desafio_fundamentais\bin\Debug\net7.0\desafio_fundamentais.deps.json
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\desafio_fundamentais\bin\Debug\net7.0\desafio_fundamentais.runtimeconfig.json
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\desafio_fundamentais\bin\Debug\net7.0\desafio_fundamentais.dll
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\desafio_fundamentais\bin\Debug\net7.0\desafio_fundamentais.pdb
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\desafio_fundamentais\obj\Debug\net7.0\desafio_fundamentais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\desafio_fundamentais\obj\Debug\net7.0\desafio_fundamentais.AssemblyInfoInputs.cache
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\desafio_fundamentais\obj\Debug\net7.0\desafio_fundamentais.AssemblyInfo.cs
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\desafio_fundamentais\obj\Debug\net7.0\desafio_fundamentais.csproj.CoreCompileInputs.cache
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\desafio_fundamentais\obj\Debug\net7.0\desafio_fundamentais.dll
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\desafio_fundamentais\obj\Debug\net7.0\refint\desafio_fundamentais.dll
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\desafio_fundamentais\obj\Debug\net7.0\desafio_fundamentais.pdb
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\desafio_fundamentais\obj\Debug\net7.0\desafio_fundamentais.genruntimeconfig.cache
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\desafio_fundamentais\obj\Debug\net7.0\ref\desafio_fundamentais.dll
